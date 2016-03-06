@@ -1,0 +1,43 @@
+Line 53: Class TabDlg.SSTab of control SSTab1 was not a loaded control class.
+Line 81: Class MSComctlLib.TreeView of control ClosedList was not a loaded control class.
+Line 93: Class MSComctlLib.TreeView of control OpenList was not a loaded control class.
+Line 105: Class MSComctlLib.TreeView of control Path was not a loaded control class.
+Line 27432: Class MSComctlLib.StatusBar of control StatusBar1 was not a loaded control class.
+Line 59: The property name _ExtentX in SSTab1 is invalid.
+Line 60: The property name _ExtentY in SSTab1 is invalid.
+Line 61: The property name _Version in SSTab1 is invalid.
+Line 62: The property name TabOrientation in SSTab1 is invalid.
+Line 63: The property name Tab in SSTab1 is invalid.
+Line 64: The property name TabHeight in SSTab1 is invalid.
+Line 65: The property name TabCaption(0) in SSTab1 is invalid.
+Line 66: The property name TabPicture(0) in SSTab1 is invalid.
+Line 67: The property name Tab(0).ControlEnabled in SSTab1 is invalid.
+Line 68: The property name Tab(0).Control(0) in SSTab1 is invalid.
+Line 69: The property name Tab(0).ControlCount in SSTab1 is invalid.
+Line 70: The property name TabCaption(1) in SSTab1 is invalid.
+Line 71: The property name TabPicture(1) in SSTab1 is invalid.
+Line 72: The property name Tab(1).ControlEnabled in SSTab1 is invalid.
+Line 73: The property name Tab(1).Control(0) in SSTab1 is invalid.
+Line 74: The property name Tab(1).ControlCount in SSTab1 is invalid.
+Line 75: The property name TabCaption(2) in SSTab1 is invalid.
+Line 76: The property name TabPicture(2) in SSTab1 is invalid.
+Line 77: The property name Tab(2).ControlEnabled in SSTab1 is invalid.
+Line 78: The property name Tab(2).Control(0) in SSTab1 is invalid.
+Line 79: The property name Tab(2).Control(0).Enabled in SSTab1 is invalid.
+Line 80: The property name Tab(2).ControlCount in SSTab1 is invalid.
+Line 87: The property name _ExtentX in ClosedList is invalid.
+Line 88: The property name _ExtentY in ClosedList is invalid.
+Line 89: The property name _Version in ClosedList is invalid.
+Line 90: The property name Style in ClosedList is invalid.
+Line 99: The property name _ExtentX in OpenList is invalid.
+Line 100: The property name _ExtentY in OpenList is invalid.
+Line 101: The property name _Version in OpenList is invalid.
+Line 102: The property name Style in OpenList is invalid.
+Line 111: The property name _ExtentX in Path is invalid.
+Line 112: The property name _ExtentY in Path is invalid.
+Line 113: The property name _Version in Path is invalid.
+Line 114: The property name Style in Path is invalid.
+Line 27439: The property name _ExtentX in StatusBar1 is invalid.
+Line 27440: The property name _ExtentY in StatusBar1 is invalid.
+Line 27441: The property name _Version in StatusBar1 is invalid.
+Line 27446: The property name Panels in StatusBar1 is invalid.
